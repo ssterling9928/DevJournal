@@ -30,3 +30,46 @@
 > That’s a tidy, resume-ready portfolio addition. 🧠💼
 > 
 > Now go forth, API adventurer! ⚔️ Your data-fetching skills await sharpening.
+---
+# Response
+
+Ok, so I ended up stretching this one out way longer than an hour, hence the major delay. I haven't worked a whole lot on API calls,
+so this was a fun and challenging *"quick"* project.  
+
+I decided to do a quick Weather API project.  I am able to input my City and State, and get basic weather conditions.  Then it prints it 
+to a nice formatted console. 
+
+I created it's own repository due to it being multiple files. 
+
+Check it out here: <br>
+https://github.com/ssterling9928/api-task4
+
+Note: This project is used for Task 5 too.
+
+---
+
+### Example Output
+~~~
+City: Chicago
+Current Temp: 58.35
+Feels Like: 58.3
+Min Temp: 57.07
+Max Temp: 59.29
+Description: light rain
+~~~
+~~~
+City: Anchorage
+Current Temp: 36.3
+Feels Like: 28.89
+Min Temp: 32.38
+Max Temp: 38.14
+Description: clear sky
+~~~
+~~~
+City: Little Rock
+Current Temp: 65.03
+Feels Like: 65.7
+Min Temp: 62.74
+Max Temp: 66.33
+Description: broken clouds
+~~~
