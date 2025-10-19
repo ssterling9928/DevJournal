@@ -1,4 +1,4 @@
-﻿> 🌄 Dev Adventure — Day 4 Quest: “Bug Hunter’s Bounty” 🐛💰
+﻿> 🌄 DevJournal — Day 5 Task: “Bug Hunter’s Bounty” 🐛💰
 >
 > Mission Brief:
 > Today’s quest is all about sharpening your debugging instincts — a skill every great dev wields like a legendary sword. ⚔️
