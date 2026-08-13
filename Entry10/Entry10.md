@@ -7,50 +7,29 @@ So today I wanted to make a new post with some of the stuff I've been doing the 
 
 <p style="font-size: 20px;"><b> New Hardware </b></p>
 
+<table>
+  <tr>
+    <td width="140" valign="middle"><img src="server.jpg" alt="MINISFORUM MS-A2 Mini PC" width="128"></td>
+    <td valign="middle">&bull; MINISFORUM AMD Ryzen 9 9955HX MS-A2 Mini PC (16C/32T, up to 5.4GHz), 32GB DDR5 1TB SSD, PCIe×16, HDMI/2x USB-C (8K@60Hz), 2X SFP+ 10G, 2X 2.5G LAN, 3X SSD M.2 (2280/22110/U.2)</td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="switch.jpg" alt="Mikrotik CRS310-8G+2S+IN switch" width="128"></td>
+    <td valign="middle">&bull; Mikrotik CRS310-8G 2S in: L3 Smart Switch</td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="ups.jpg" alt="CyberPower CP1500PFCLCD UPS" width="128"></td>
+    <td valign="middle">&bull; CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector, 1500VA/1000W, 12 Outlets, AVR, Mini Tower, UL Certified</td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="dac.jpg" alt="10Gtek SFP+ DAC cable" width="128"></td>
+    <td valign="middle">&bull; 10Gtek SFP+ DAC Twinax Cable - 10GBASE-CU Passive Direct Attach Copper SFP Cable</td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle"><img src="cable.jpg" alt="Cable Matters USB to 2.5Gb Ethernet adapter" width="128"></td>
+    <td valign="middle">&bull; Cable Matters USB to 2.5Gb Ethernet Adapter, USB-A to RJ45 Network Adapter | 2500Mbps</td>
+  </tr>
+</table>
 
-<style>
-  ul.hardware {
-    list-style: none;      /* drop the bullets since the image is the visual marker */
-    padding: 0;
-    margin: 0;
-  }
-  ul.hardware li {
-    display: flex;         /* put image and text on one row */
-    align-items: center;   /* vertically center the image against the text block */
-    gap: 12px;             /* space between image and text */
-    margin-bottom: 2px;    /* space between rows */
-  }
-  ul.hardware li img {
-    width: 128px;           /* fixed small size — bump up/down to taste */
-    height: 128px;
-    object-fit: contain;   /* scale the image to fit without distorting/cropping */
-    flex-shrink: 0;        /* stop the image from squishing when text is long */
-  }
-
-</style>
-
-<ul class="hardware">
-  <li>
-    <img src="server.jpg" alt="MINISFORUM MS-A2 Mini PC">
-    MINISFORUM AMD Ryzen 9 9955HX MS-A2 Mini PC (16C/32T, up to 5.4GHz), 32GB DDR5 1TB SSD, PCIe×16, HDMI/2x USB-C (8K@60Hz), 2X SFP+ 10G, 2X 2.5G LAN, 3X SSD M.2 (2280/22110/U.2)
-  </li>
-  <li>
-    <img src="switch.jpg" alt="Mikrotik CRS310-8G+2S+IN switch">
-    Mikrotik CRS310-8G 2S in: L3 Smart Switch
-  </li>
-  <li>
-    <img src="ups.jpg" alt="CyberPower CP1500PFCLCD UPS">
-    CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector, 1500VA/1000W, 12 Outlets, AVR, Mini Tower, UL Certified
-  </li>
-  <li>
-    <img src="dac.jpg" alt="10Gtek SFP+ DAC cable">
-    10Gtek SFP+ DAC Twinax Cable - 10GBASE-CU Passive Direct Attach Copper SFP Cable
-  </li>
-  <li>
-    <img src="cable.jpg" alt="Cable Matters USB to 2.5Gb Ethernet adapter">
-    Cable Matters USB to 2.5Gb Ethernet Adapter, USB-A to RJ45 Network Adapter | 2500Mbps
-  </li>
-</ul>
 
 --- 
 
